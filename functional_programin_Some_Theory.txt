@@ -1,0 +1,15 @@
+Lambdas en kotlin
+
+Una lambda nos permite definir variables o funciones
+que pueden trabajar con otras funciones.
+
+las funciones lambda son subrutinas que no estan enlazadas a un identificador
+
+la programacion funcional no tiene ciclos, si no que hace uso de la recursividad
+
+no existe el concepto de la mutabilidad, es decir una vez establecido el valor
+de una variable esta no puede cambiar. 
+
+Una ventaja es la ejecucion del codigo en entornos de ejecucion paralela 
+
+los lenguajes de programacion funcional permiten escribir codigo mas corto
